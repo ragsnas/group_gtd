@@ -1,0 +1,13 @@
+this is the start of a project that will
+combine GTD (Getting Things Done) with collobaration 
+and project management tools.
+It will add Communication (Comments, Conversations)
+and Files as well as Statistics.
+The user in the end should be either companies
+working in teams or even private groups organising
+concerts, parties or whatever.
+
+The base for the project should be either Zend_Framework 
+or Symphony.
+
+The only author so far is me, ansgar
