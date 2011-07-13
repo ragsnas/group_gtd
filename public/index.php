@@ -8,4 +8,4 @@ include_once '../application/bootstrap.php';
 
 Bootstrap::init();
 
-die ('So much for now! Mostly testing git/github/EGit at the moment. Environment is "'.APPLICATION_ENV.'" now.');
+die ('Testing online editing and synching with local copy. Environment is "'.APPLICATION_ENV.'" now.');
